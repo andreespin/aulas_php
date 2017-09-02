@@ -1,6 +1,6 @@
 <?php
 
-	echo "Hello World!";
-	echo "Avai é o melhor time do Mundo";
+	echo "Hello World! 123";
+	echo "Avai is the best team of the world";
 
 ?>
